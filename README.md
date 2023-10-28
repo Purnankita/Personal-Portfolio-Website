@@ -10,16 +10,16 @@ All the elements are rendered distinctively on the website.
 
 
 # Front End Languages : 
-# HTML CSS JavaScript
+HTML CSS JavaScript
 
 
 # Back End Languages : 
 
-# Java, Hibernate, Spring Boot
+Java, Hibernate, Spring Boot
 
 
 # Databses
-# SQL, MYSQL Databases.
+SQL, MYSQL Databases.
 
 
 # Conclisuion : 
